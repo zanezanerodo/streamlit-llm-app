@@ -1,1 +1,1 @@
-# streamlit-llm-app
+# ai-agent-app-template
